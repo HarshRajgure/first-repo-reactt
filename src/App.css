@@ -1,0 +1,14 @@
+body{
+  background: #888;
+  font-size: 20 px;
+
+}
+.logo{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.add-btn{
+  margin-left: right 300px;
+
+}
